@@ -1,0 +1,1 @@
+This is simple quiz app built with React, JavaScript and CSS. 
